@@ -2,7 +2,7 @@
 
 ## 入门
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [创建一个场景](methods/chuang-jian-yi-ge-chang-jing.md)
 * [使用模块化引入](shi-yong-mo-kuai-hua-yin-ru.md)
 * [WebGL兼容性检查](webgljian-rong-xing-jian-cha.md)
