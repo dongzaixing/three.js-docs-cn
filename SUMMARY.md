@@ -15,4 +15,6 @@
 ## 下一步
 
 * [如何更新物体](xia-yi-bu/ru-he-geng-xin-wu-ti.md)
+* [矩阵转换](xia-yi-bu/ju-zhen-zhuan-huan.md)
+* [动画系统](xia-yi-bu/dong-hua-xi-tong.md)
 
